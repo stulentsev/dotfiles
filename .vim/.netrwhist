@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/sergio/projects/textmaster/textmaster.com/app'
+let g:netrw_dirhist_2='/Users/sergio/projects/textmaster/textmaster.com/app/controllers'
+let g:netrw_dirhist_3='/Users/sergio/projects/textmaster/textmaster.com'
+let g:netrw_dirhist_4='/Users/sergio/projects/textmaster/textmaster.com/app'
+let g:netrw_dirhist_5='/Users/sergio/projects/textmaster/textmaster.com/app/controllers'
+let g:netrw_dirhist_6='/Users/sergio/gocode/src/github.com/stulentsev/stackwatcher'
+let g:netrw_dirhist_7='/Users/sergio/projects/tech.tulentsev.com'

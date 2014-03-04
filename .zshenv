@@ -1,0 +1,3 @@
+# Customize to your needs...
+export GOPATH=$HOME/gocode
+export PATH=$GOPATH/bin:/usr/local/bin:$PATH
