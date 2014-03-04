@@ -49,7 +49,7 @@ source $ZSH/oh-my-zsh.sh
 # chruby
 source /usr/local/share/chruby/chruby.sh
 source /usr/local/share/chruby/auto.sh
-chruby 2.0.0
+chruby 2.1.0
 
 ### Added by the Heroku Toolbelt
 export PATH="/usr/local/bin:/usr/local/heroku/bin:$PATH"
